@@ -1,7 +1,8 @@
 # capstone-1
 Capstone project 1
 
-Capstone Project 1 proposal:
+Capstone Project 1 proposal
+
 Goal: Predicting the significance of Employee welfare benefit plans in the performance of stock price returns
 over a 3-year time horizon for stocks in Russell 3000 using supervised learning ML models.
 Background: The cash-based audited welfare metrics from the Department of Labor could be long-run
@@ -26,6 +27,6 @@ independent variables, the welfare benefit factors). It would be Plain batch lea
 continuous flow of data coming into our system and hence there is no particular need to adjust to
 changing data rapidly, and the data is small enough to fit in memory.
 
-Deliverables: I plan to write a code (and a corresponding slide deck) that builds the model to predict the
+Deliverables: I plan to commit the code (and a corresponding slide deck) that builds the model to predict the
 stock price returns for the Russell 3000 and the significance of different independent variables in the
 movement of stock price returns, given the training data.
